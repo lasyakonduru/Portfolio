@@ -78,24 +78,28 @@ export const assets = {
 
 export const workData = [
     {
-        title: '🚀 Built & Deployed a Travel Landing Page! 🌍💻',
-        description: 'Web Design with Cloud based Deployment',
+        title: 'Travel Landing Page!',
+        description: 'Cloud Deployment',
         bgImage: '/work-1.png',
+        link: "https://github.com/Sameera-05/Travel-App"
     },
     {
-        title: 'University Event Management System',
-        description: 'Web App designed using PHP, MySQL, HTML & CSS',
+        title: 'Full-Stack app',
+        description: 'Web App',
         bgImage: '/work-2.png',
+        link: "https://github.com/Sameera-05/University-Event-Management-System"
     },
     {
-        title: 'Computer Vision Project',
-        description: ' A virtual calculator is developed using OpenCV and the Mediapipe library.',
+        title: 'AI Project',
+        description: 'Computer Vision',
         bgImage: '/work-3.png',
+        link: "https://github.com/Sameera-05/Computer-Vision-Project"
     },
     {
         title: 'SMS-Spam-Classifier',
-        description: 'Machine Learning and NLP',
+        description: 'ML and NLP',
         bgImage: '/work-4.png',
+        link: "https://github.com/Sameera-05/SMS-Spam-Classifier"
     },
 ]
 
