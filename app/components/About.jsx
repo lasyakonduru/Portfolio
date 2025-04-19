@@ -30,6 +30,7 @@ const About = ({isDarkMode}) => {
                 className='w-64 sm:w-80 rounded-3xl max-w-none'>
                     <Image src={assets.user_image} alt='user'
                     className=' w-full h-full object-cover rounded-3xl'/>
+                    
                 </motion.div>
                 <motion.div 
                 initial={{opacity: 0}}
@@ -37,10 +38,12 @@ const About = ({isDarkMode}) => {
                 transition={{duration:0.6, delay:0.8}}
                 className='flex-1'>
                     <p className='mb-10 mx-w-2xl font-Ovo'>
-                    I'm a computer science graduate student with hands-on experience in full-stack development, DevOps practices, and cloud deployment. 
-                    I’ve built and deployed modern web apps using React, Docker, and AWS, contributed to open-source projects, and interned in IT support to solve real-world tech problems.
-                    I'm actively seeking opportunities as a Software Engineer, DevOps Engineer, or Full-Stack Developer — where I 
-                    can bring energy, adaptability, and problem-solving to dynamic engineering teams.
+                    I'm a computer science graduate student with hands-on experience in full-stack development, cloud deployment, 
+                    and DevOps practices. I’ve built and deployed modern web applications using React, Docker, and AWS, contributed to 
+                    open-source projects, and gained real-world problem-solving experience through IT support internships. 
+                    I'm actively seeking entry-level opportunities as a Software Engineer, 
+                    Junior Cloud Engineer, Site Reliability Engineer (SRE), or Full-Stack Developer—where I can bring adaptability, 
+                    a growth mindset, and a strong interest in building reliable and scalable systems.
                         </p>
 
                         <motion.ul 
