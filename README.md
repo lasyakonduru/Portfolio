@@ -53,5 +53,5 @@ This portfolio uses GitHub Actions + AWS EC2 for seamless CI/CD deployment.
 
 ### 📬 Contact
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sameera-sineen) or fork and tag me if you customize it! 😊  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sameera-sineen-42414b198/) or fork and tag me if you customize it! 😊  
 📧 Email: [sineen.0509@gmail.com](mailto:sineen.0509@gmail.com)
