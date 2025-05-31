@@ -104,11 +104,11 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'IT Intern – Blackmore Partners Inc, \n Sep 2024 - Present', description: 'Automated 5+ manual workflows using Power Automate, reducing processing time by 30%. Streamlined CRM operations and resolved 90% of IT issues independently.', skillsAndTools: ['Power Automate', 'Infusionsoft', 'CRM', 'Excel','Azure', 'Microsoft Office 365'] },
-    { icon: assets.mobile_icon, title: 'Operations Assistant – Saint Louis University,\n May 2024 - Present', description: 'Oversaw facility access, improved guest experiences, and maintained operational accuracy using CRM tools and documentation.', skillsAndTools: ['CRM', 'Communication', 'Teamwork', 'Customer Service'] },
+    { icon: assets.ui_icon, title: 'Software Developer Intern – UT Austin, \n June 2025 - Aug 2025', description: 'Enhancing the DesignSafe dashboard using React, Python, Docker, and REST APIs to build scalable, user-friendly tools with personalized features—showcasing strong full-stack development and UI/UX skills.', skillsAndTools: ['React', 'RestAPI', 'CI/CD', 'AI','User Recommendations']},
+    { icon: assets.web_icon, title: 'IT Intern – Blackmore Partners Inc, \n Sep 2024 - Apr 2025', description: 'Automated 5+ manual workflows using Power Automate, reducing processing time by 30%. Streamlined CRM operations and resolved 90% of IT issues independently.', skillsAndTools: ['Power Automate', 'Infusionsoft', 'CRM', 'Excel','Azure', 'Microsoft Office 365'] },
+    { icon: assets.mobile_icon, title: 'Operations Assistant – Saint Louis University,\n May 2024 - May 2025', description: 'Oversaw facility access, improved guest experiences, and maintained operational accuracy using CRM tools and documentation.', skillsAndTools: ['CRM', 'Communication', 'Teamwork', 'Customer Service'] },
     { icon: assets.graphics_icon, title: 'Global Grad Projects – Saint Louis University, \n Sep 2023 - April 2024', description: 'Led orientation and admissions support for 50+ graduate students. Created an informational website, handled visa and academic inquiries,collaborated on presentations to improve onboarding experience.',skillsAndTools: ['Google Sites', 'Public Speaking', 'Team Collaboration', 'Project Management'] },
-    { icon: assets.ui_icon, title: 'Cybersecurity Intern – Cisco, \n Nov 2022 - Jan 2023', description: 'Configured LAN/WAN, resolved network issues, gained foundational knowledge in data security and regulatory compliance. Participated in troubleshooting exercises, enhanced awareness of cybersecurity protocols.', skillsAndTools: ['Networking', 'LAN/WAN', 'Cybersecurity Basics', 'Cisco Packet Tracer']
-    },
+    
 ]
 
 export const infoList = [
