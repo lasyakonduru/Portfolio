@@ -1,4 +1,4 @@
-# 🌐 Sameera's Portfolio Website
+# 🌐 Portfolio Website
 
 Welcome to my personal portfolio site — a modern, responsive, and animated showcase built with the latest web technologies. You can **fork** this repo and make it your own too!
 
@@ -53,5 +53,5 @@ This portfolio uses GitHub Actions + AWS EC2 for seamless CI/CD deployment.
 
 ### 📬 Contact
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sameera-sineen-42414b198/) or fork and tag me if you customize it! 😊  
-📧 Email: [sineen.0509@gmail.com](mailto:sineen.0509@gmail.com)
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lasya-priya-k/) 
+📧 Email: [konduru.lasya@gmail.com](mailto:konduru.lasya@gmail.com)
